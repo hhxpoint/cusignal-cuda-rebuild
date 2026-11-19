@@ -1,0 +1,6 @@
+﻿This repository contains code derived from NVIDIA cuSignal
+(https://github.com/rapidsai/cusignal), Copyright (c) 2019-2023 NVIDIA CORPORATION & AFFILIATES,
+licensed under the Apache License, Version 2.0.
+
+Local rebuild scripts, C++ port experiments and documentation changes:
+Copyright (c) 2026 hhxpoint, licensed under Apache-2.0.
